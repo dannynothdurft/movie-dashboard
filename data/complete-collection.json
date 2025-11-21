@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "title": "Insidious",
+    "year": 2010,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Patrick Wilson", "Rose Byrne", "Lin Shaye"]
+  },
+  {
+    "id": 2,
+    "title": "Insidious Chapter 2",
+    "year": 2013,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Patrick Wilson", "Rose Byrne", "Lin Shaye"]
+  },
+  {
+    "id": 3,
+    "title": "Insidious Chapter 3",
+    "year": 2015,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Dermot Mulroney", "Stefanie Scott", "Lin Shaye"]
+  },
+  {
+    "id": 4,
+    "title": "Insidious: The Last Key",
+    "year": 2018,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Lin Shaye", "Leigh Whannell", "Angus Sampson"]
+  },
+  {
+    "id": 5,
+    "title": "Insidious: The Red Door",
+    "year": 2023,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Patrick Wilson", "Rose Byrne", "Ty Simpkins"]
+  },
+  {
+    "id": 6,
+    "title": "28 Years Later",
+    "year": 2025,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Cillian Murphy", "Aaron Taylor-Johnson", "Jodie Comer"]
+  },
+  {
+    "id": 7,
+    "title": "A Minecraft Movie",
+    "year": 2025,
+    "genre": "Adventure",
+    "type": "Film",
+    "actors": ["Jason Momoa", "Emma Myers", "Danielle Brooks"]
+  },
+  {
+    "id": 8,
+    "title": "Abigail",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Melissa Barrera", "Dan Stevens", "Alisha Weir"]
+  },
+  {
+    "id": 9,
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Jim Carrey", "Courteney Cox", "Sean Young"]
+  },
+  {
+    "id": 10,
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Jim Carrey", "Ian McNeice", "Simon Callow"]
+  },
+  {
+    "id": 11,
+    "title": "Alien: Romulus",
+    "year": 2024,
+    "genre": "Sci-Fi Horror",
+    "type": "Film",
+    "actors": ["Cailee Spaeny", "David Jonsson", "Archie Renaux"]
+  },
+  {
+    "id": 12,
+    "title": "All Hallows Eve - Komm Raus Und Spiel",
+    "year": 2013,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Katie Maguire", "Catherine A. Callahan", "Marie Maser"]
+  },
+  {
+    "id": 13,
+    "title": "Annabelle",
+    "year": 2014,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Annabelle Wallis", "Ward Horton", "Tony Amendola"]
+  },
+  {
+    "id": 14,
+    "title": "Annabelle: Creation",
+    "year": 2017,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Anthony LaPaglia", "Samara Lee", "Miranda Otto"]
+  },
+  {
+    "id": 15,
+    "title": "Annabelle Comes Home",
+    "year": 2019,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Mckenna Grace", "Madison Iseman", "Katie Sarife"]
+  },
+  {
+    "id": 16,
+    "title": "Aquaman",
+    "year": 2018,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Jason Momoa", "Amber Heard", "Willem Dafoe"]
+  },
+  {
+    "id": 17,
+    "title": "Aquaman and the Lost Kingdom",
+    "year": 2023,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Jason Momoa", "Patrick Wilson", "Amber Heard"]
+  },
+  {
+    "id": 18,
+    "title": "Arcadian",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Nicolas Cage", "Jaeden Martell", "Maxwell Jenkins"]
+  },
+  {
+    "id": 19,
+    "title": "Arthur der Grosse",
+    "year": 2011,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Russell Brand", "Helen Mirren", "Jennifer Garner"]
+  },
+  {
+    "id": 20,
+    "title": "Aus dem Dschungel in den Dschungel",
+    "year": 1997,
+    "genre": "Family Comedy",
+    "type": "Film",
+    "actors": ["Tim Allen", "Martin Short", "JoBeth Williams"]
+  },
+  {
+    "id": 21,
+    "title": "Bad Boys: Ride or Die",
+    "year": 2024,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Will Smith", "Martin Lawrence", "Vanessa Hudgens"]
+  },
+  {
+    "id": 22,
+    "title": "Ballerina",
+    "year": 2025,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Ana de Armas", "Keanu Reeves", "Ian McShane"]
+  },
+  {
+    "id": 23,
+    "title": "Bambi The Reckoning",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Roxanne McKee", "Tom Mulheron", "Nicola Wright"]
+  },
+  {
+    "id": 24,
+    "title": "Batman Begins",
+    "year": 2005,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Christian Bale", "Michael Caine", "Liam Neeson"]
+  },
+  {
+    "id": 25,
+    "title": "Batman Forever",
+    "year": 1995,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Val Kilmer", "Tommy Lee Jones", "Jim Carrey"]
+  },
+  {
+    "id": 26,
+    "title": "Batman & Robin",
+    "year": 1997,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["George Clooney", "Arnold Schwarzenegger", "Uma Thurman"]
+  },
+  {
+    "id": 27,
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Ben Affleck", "Henry Cavill", "Amy Adams"]
+  },
+  {
+    "id": 28,
+    "title": "Batman",
+    "year": 1989,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Michael Keaton", "Jack Nicholson", "Kim Basinger"]
+  },
+  {
+    "id": 29,
+    "title": "Batman Returns",
+    "year": 1992,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Michael Keaton", "Danny DeVito", "Michelle Pfeiffer"]
+  },
+  {
+    "id": 30,
+    "title": "Beetlejuice Beetlejuice",
+    "year": 2024,
+    "genre": "Comedy Horror",
+    "type": "Film",
+    "actors": ["Michael Keaton", "Winona Ryder", "Jenna Ortega"]
+  },
+  {
+    "id": 31,
+    "title": "Better off Dead",
+    "year": 1985,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["John Cusack", "David Ogden Stiers", "Kim Darby"]
+  },
+  {
+    "id": 32,
+    "title": "Black Adam",
+    "year": 2022,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Dwayne Johnson", "Aldis Hodge", "Noah Centineo"]
+  },
+  {
+    "id": 33,
+    "title": "Blue Beetle",
+    "year": 2023,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Xolo Maridueña", "Adriana Barraza", "Damián Alcázar"]
+  },
+  {
+    "id": 34,
+    "title": "Boneyard",
+    "year": 2024,
+    "genre": "Crime Thriller",
+    "type": "Film",
+    "actors": ["Mel Gibson", "50 Cent", "Brian Van Holt"]
+  },
+  {
+    "id": 35,
+    "title": "Borderlands",
+    "year": 2024,
+    "genre": "Action Adventure",
+    "type": "Film",
+    "actors": ["Cate Blanchett", "Kevin Hart", "Jack Black"]
+  },
+  {
+    "id": 36,
+    "title": "Born to be Wild",
+    "year": 2011,
+    "genre": "Documentary",
+    "type": "Film",
+    "actors": ["Morgan Freeman"]
+  },
+  {
+    "id": 37,
+    "title": "Bullet Train",
+    "year": 2022,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson"]
+  },
+  {
+    "id": 38,
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "genre": "Adventure",
+    "type": "Film",
+    "actors": ["Johnny Depp", "Freddie Highmore", "David Kelly"]
+  },
+  {
+    "id": 39,
+    "title": "The Conjuring",
+    "year": 2013,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Vera Farmiga", "Patrick Wilson", "Lili Taylor"]
+  },
+  {
+    "id": 40,
+    "title": "The Conjuring 2",
+    "year": 2016,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Vera Farmiga", "Patrick Wilson", "Madison Wolfe"]
+  },
+  {
+    "id": 41,
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "year": 2021,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Vera Farmiga", "Patrick Wilson", "Ruairi O'Connor"]
+  },
+  {
+    "id": 42,
+    "title": "Daddy's Home",
+    "year": 2015,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Will Ferrell", "Mark Wahlberg", "Linda Cardellini"]
+  },
+  {
+    "id": 43,
+    "title": "Daddy's Home 2",
+    "year": 2017,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Will Ferrell", "Mark Wahlberg", "Mel Gibson"]
+  },
+  {
+    "id": 44,
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Ryan Reynolds", "Hugh Jackman", "Emma Corrin"]
+  },
+  {
+    "id": 45,
+    "title": "Deadpool 2",
+    "year": 2018,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin"]
+  },
+  {
+    "id": 46,
+    "title": "Deadpool",
+    "year": 2016,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"]
+  },
+  {
+    "id": 47,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]
+  },
+  {
+    "id": 48,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+  },
+  {
+    "id": 49,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+  },
+  {
+    "id": 50,
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Martin Freeman", "Ian McKellen", "Richard Armitage"]
+  },
+  {
+    "id": 51,
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Martin Freeman", "Ian McKellen", "Benedict Cumberbatch"]
+  },
+  {
+    "id": 52,
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "genre": "Fantasy Adventure",
+    "type": "Film",
+    "actors": ["Martin Freeman", "Ian McKellen", "Richard Armitage"]
+  },
+  {
+    "id": 53,
+    "title": "Die Firma",
+    "year": 1993,
+    "genre": "Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Gene Hackman", "Jeanne Tripplehorn"]
+  },
+  {
+    "id": 54,
+    "title": "Die Goonies",
+    "year": 1985,
+    "genre": "Adventure",
+    "type": "Film",
+    "actors": ["Sean Astin", "Josh Brolin", "Jeff Cohen"]
+  },
+  {
+    "id": 55,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "year": 2016,
+    "genre": "Fantasy",
+    "type": "Film",
+    "actors": ["Eva Green", "Asa Butterfield", "Samuel L. Jackson"]
+  },
+  {
+    "id": 56,
+    "title": "Die nackte Kanone",
+    "year": 1988,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Leslie Nielsen", "Priscilla Presley", "Ricardo Montalban"]
+  },
+  {
+    "id": 57,
+    "title": "Die nackte Kanone 2½",
+    "year": 1991,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Leslie Nielsen", "Priscilla Presley", "George Kennedy"]
+  },
+  {
+    "id": 58,
+    "title": "Die nackte Kanone 33⅓",
+    "year": 1994,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Leslie Nielsen", "Priscilla Presley", "George Kennedy"]
+  },
+  {
+    "id": 59,
+    "title": "Police Squad! In Color",
+    "year": 2006,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Leslie Nielsen", "Alan North", "Ed Williams"]
+  },
+  {
+    "id": 60,
+    "title": "Die Piratenbraut",
+    "year": 1995,
+    "genre": "Adventure Romance",
+    "type": "Film",
+    "actors": ["Geena Davis", "Matthew Modine", "Frank Langella"]
+  },
+  {
+    "id": 61,
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "genre": "Fantasy",
+    "type": "Film",
+    "actors": ["Noah Hathaway", "Barret Oliver", "Tami Stronach"]
+  },
+  {
+    "id": 62,
+    "title": "Now You See Me 2",
+    "year": 2016,
+    "genre": "Thriller",
+    "type": "Film",
+    "actors": ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson"]
+  },
+  {
+    "id": 63,
+    "title": "Now You See Me",
+    "year": 2013,
+    "genre": "Thriller",
+    "type": "Film",
+    "actors": ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson"]
+  },
+  {
+    "id": 64,
+    "title": "Don't Breathe 2",
+    "year": 2021,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Stephen Lang", "Madelyn Grace", "Brendan Sexton III"]
+  },
+  {
+    "id": 65,
+    "title": "Don't Breathe",
+    "year": 2016,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Jane Levy", "Dylan Minnette", "Daniel Zovatto"]
+  },
+  {
+    "id": 66,
+    "title": "You Should Have Left",
+    "year": 2020,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Kevin Bacon", "Amanda Seyfried", "Avery Essex"]
+  },
+  {
+    "id": 67,
+    "title": "Dune",
+    "year": 2021,
+    "genre": "Sci-Fi",
+    "type": "Film",
+    "actors": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac"]
+  },
+  {
+    "id": 68,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genre": "Sci-Fi",
+    "type": "Film",
+    "actors": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson"]
+  },
+  {
+    "id": 69,
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "year": 2023,
+    "genre": "Adventure Comedy",
+    "type": "Film",
+    "actors": ["Chris Pine", "Michelle Rodriguez", "Regé-Jean Page"]
+  },
+  {
+    "id": 70,
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "genre": "Drama Romance",
+    "type": "Film",
+    "actors": ["Sarah Michelle Gellar", "Ryan Phillippe", "Reese Witherspoon"]
+  },
+  {
+    "id": 71,
+    "title": "The Fall Guy (Extended Cut)",
+    "year": 2024,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Ryan Gosling", "Emily Blunt", "Aaron Taylor-Johnson"]
+  },
+  {
+    "id": 72,
+    "title": "The Fall Guy",
+    "year": 2024,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Ryan Gosling", "Emily Blunt", "Aaron Taylor-Johnson"]
+  },
+  {
+    "id": 73,
+    "title": "An American Tail",
+    "year": 1986,
+    "genre": "Animation Family",
+    "type": "Film",
+    "actors": ["Phillip Glasser", "Erica Yohn", "Nehemiah Persoff"]
+  },
+  {
+    "id": 74,
+    "title": "FernGully: The Last Rainforest",
+    "year": 1992,
+    "genre": "Animation Family",
+    "type": "Film",
+    "actors": ["Samantha Mathis", "Christian Slater", "Robin Williams"]
+  },
+  {
+    "id": 75,
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "genre": "Comedy Sci-Fi",
+    "type": "Film",
+    "actors": ["Tim Allen", "Sigourney Weaver", "Alan Rickman"]
+  },
+  {
+    "id": 76,
+    "title": "Gladiator II",
+    "year": 2024,
+    "genre": "Action Drama",
+    "type": "Film",
+    "actors": ["Paul Mescal", "Pedro Pascal", "Denzel Washington"]
+  },
+  {
+    "id": 77,
+    "title": "Godzilla",
+    "year": 1954,
+    "genre": "Monster",
+    "type": "Film",
+    "actors": ["Akira Takarada", "Momoko Kōchi", "Akihiko Hirata"]
+  },
+  {
+    "id": 78,
+    "title": "Godzilla",
+    "year": 1998,
+    "genre": "Monster Action",
+    "type": "Film",
+    "actors": ["Matthew Broderick", "Jean Reno", "Maria Pitillo"]
+  },
+  {
+    "id": 79,
+    "title": "Godzilla",
+    "year": 2014,
+    "genre": "Monster Action",
+    "type": "Film",
+    "actors": ["Aaron Taylor-Johnson", "Elizabeth Olsen", "Bryan Cranston"]
+  },
+  {
+    "id": 80,
+    "title": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "genre": "Monster Action",
+    "type": "Film",
+    "actors": ["Kyle Chandler", "Vera Farmiga", "Millie Bobby Brown"]
+  },
+  {
+    "id": 81,
+    "title": "Godzilla Minus One",
+    "year": 2023,
+    "genre": "Monster Drama",
+    "type": "Film",
+    "actors": ["Ryunosuke Kamiki", "Minami Hamabe", "Yuki Yamada"]
+  },
+  {
+    "id": 82,
+    "title": "Green Lantern",
+    "year": 2011,
+    "genre": "Action Sci-Fi",
+    "type": "Film",
+    "actors": ["Ryan Reynolds", "Blake Lively", "Peter Sarsgaard"]
+  },
+  {
+    "id": 83,
+    "title": "Harold and the Purple Crayon",
+    "year": 2024,
+    "genre": "Family Adventure",
+    "type": "Film",
+    "actors": ["Zachary Levi", "Lil Rel Howery", "Benjamin Bottani"]
+  },
+  {
+    "id": 84,
+    "title": "Hellboy: The Crooked Man",
+    "year": 2024,
+    "genre": "Horror Action",
+    "type": "Film",
+    "actors": ["Jack Kesy", "Jefferson White", "Adeline Rudolph"]
+  },
+  {
+    "id": 85,
+    "title": "Despicable Me 4",
+    "year": 2024,
+    "genre": "Animation Comedy",
+    "type": "Film",
+    "actors": ["Steve Carell", "Kristen Wiig", "Joey King"]
+  },
+  {
+    "id": 86,
+    "title": "IF",
+    "year": 2024,
+    "genre": "Family Fantasy",
+    "type": "Film",
+    "actors": ["Cailey Fleming", "Ryan Reynolds", "Phoebe Waller-Bridge"]
+  },
+  {
+    "id": 87,
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Drama Thriller",
+    "type": "Film",
+    "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+  },
+  {
+    "id": 88,
+    "title": "Joker: Folie à Deux",
+    "year": 2024,
+    "genre": "Drama Musical",
+    "type": "Film",
+    "actors": ["Joaquin Phoenix", "Lady Gaga", "Brendan Gleeson"]
+  },
+  {
+    "id": 89,
+    "title": "Jurassic World Rebirth",
+    "year": 2025,
+    "genre": "Action Adventure",
+    "type": "Film",
+    "actors": ["Scarlett Johansson", "Jonathan Bailey", "Mahershala Ali"]
+  },
+  {
+    "id": 90,
+    "title": "Justice League",
+    "year": 2017,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Ben Affleck", "Gal Gadot", "Henry Cavill"]
+  },
+  {
+    "id": 91,
+    "title": "Knock at the Cabin",
+    "year": 2023,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Dave Bautista", "Jonathan Groff", "Ben Aldridge"]
+  },
+  {
+    "id": 92,
+    "title": "Late Night with the Devil",
+    "year": 2023,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["David Dastmalchian", "Laura Gordon", "Ian Bliss"]
+  },
+  {
+    "id": 93,
+    "title": "Little Monsters",
+    "year": 2019,
+    "genre": "Comedy Horror",
+    "type": "Film",
+    "actors": ["Alexander England", "Lupita Nyong'o", "Josh Gad"]
+  },
+  {
+    "id": 94,
+    "title": "La Llorona",
+    "year": 2019,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Linda Cardellini", "Raymond Cruz", "Patricia Velasquez"]
+  },
+  {
+    "id": 95,
+    "title": "Longlegs",
+    "year": 2024,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Maika Monroe", "Nicolas Cage", "Blair Underwood"]
+  },
+  {
+    "id": 96,
+    "title": "Loop Track",
+    "year": 2023,
+    "genre": "Horror Thriller",
+    "type": "Film",
+    "actors": ["Ian Harding", "Hayden J. Weal", "Nathalie Morris"]
+  },
+  {
+    "id": 97,
+    "title": "Man of Steel",
+    "year": 2013,
+    "genre": "Action Sci-Fi",
+    "type": "Film",
+    "actors": ["Henry Cavill", "Amy Adams", "Michael Shannon"]
+  },
+  {
+    "id": 98,
+    "title": "Marley & Me",
+    "year": 2008,
+    "genre": "Family Drama",
+    "type": "Film",
+    "actors": ["Owen Wilson", "Jennifer Aniston", "Eric Dane"]
+  },
+  {
+    "id": 99,
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": 2022,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Nicolas Cage", "Pedro Pascal", "Sharon Horgan"]
+  },
+  {
+    "id": 100,
+    "title": "M3GAN 2.0",
+    "year": 2025,
+    "genre": "Horror Sci-Fi",
+    "type": "Film",
+    "actors": ["Allison Williams", "Violet McGraw", "Ronny Chieng"]
+  },
+  {
+    "id": 101,
+    "title": "Mighty Joe Young",
+    "year": 1998,
+    "genre": "Adventure Family",
+    "type": "Film",
+    "actors": ["Charlize Theron", "Bill Paxton", "Rade Šerbedžija"]
+  },
+  {
+    "id": 102,
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Jon Voight", "Emmanuelle Béart"]
+  },
+  {
+    "id": 103,
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Dougray Scott", "Thandiwe Newton"]
+  },
+  {
+    "id": 104,
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Philip Seymour Hoffman", "Michelle Monaghan"]
+  },
+  {
+    "id": 105,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Jeremy Renner", "Simon Pegg"]
+  },
+  {
+    "id": 106,
+    "title": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Rebecca Ferguson", "Jeremy Renner"]
+  },
+  {
+    "id": 107,
+    "title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Henry Cavill", "Ving Rhames"]
+  },
+  {
+    "id": 108,
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "year": 2023,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Hayley Atwell", "Ving Rhames"]
+  },
+  {
+    "id": 109,
+    "title": "Mission: Impossible - Dead Reckoning Part Two",
+    "year": 2024,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Tom Cruise", "Hayley Atwell", "Ving Rhames"]
+  },
+  {
+    "id": 110,
+    "title": "Monster Summer",
+    "year": 2024,
+    "genre": "Adventure Family",
+    "type": "Film",
+    "actors": ["Mason Thames", "Mel Gibson", "Lorraine Bracco"]
+  },
+  {
+    "id": 111,
+    "title": "Monsters vs. Aliens",
+    "year": 2009,
+    "genre": "Animation Comedy",
+    "type": "Film",
+    "actors": ["Reese Witherspoon", "Seth Rogen", "Hugh Laurie"]
+  },
+  {
+    "id": 112,
+    "title": "Song of the South",
+    "year": 1946,
+    "genre": "Family Musical",
+    "type": "Film",
+    "actors": ["James Baskett", "Bobby Driscoll", "Luana Patten"]
+  },
+  {
+    "id": 113,
+    "title": "Pitch Black",
+    "year": 2000,
+    "genre": "Sci-Fi Horror",
+    "type": "Film",
+    "actors": ["Vin Diesel", "Radha Mitchell", "Cole Hauser"]
+  },
+  {
+    "id": 114,
+    "title": "Instant Family",
+    "year": 2018,
+    "genre": "Comedy Drama",
+    "type": "Film",
+    "actors": ["Mark Wahlberg", "Rose Byrne", "Isabela Merced"]
+  },
+  {
+    "id": 115,
+    "title": "The Internship",
+    "year": 2013,
+    "genre": "Comedy",
+    "type": "Film",
+    "actors": ["Vince Vaughn", "Owen Wilson", "Rose Byrne"]
+  },
+  {
+    "id": 116,
+    "title": "Over the Hedge",
+    "year": 2006,
+    "genre": "Animation Comedy",
+    "type": "Film",
+    "actors": ["Bruce Willis", "Garry Shandling", "Steve Carell"]
+  },
+  {
+    "id": 117,
+    "title": "Reacher S01E01",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 118,
+    "title": "Reacher S01E02",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 119,
+    "title": "Reacher S01E03",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 120,
+    "title": "Reacher S01E04",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 121,
+    "title": "Reacher S01E05",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 122,
+    "title": "Reacher S01E06",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 123,
+    "title": "Reacher S01E07",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 124,
+    "title": "Reacher S01E08",
+    "year": 2022,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Malcolm Goodwin", "Willa Fitzgerald"]
+  },
+  {
+    "id": 125,
+    "title": "Reacher S02E01",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 126,
+    "title": "Reacher S02E02",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 127,
+    "title": "Reacher S02E03",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 128,
+    "title": "Reacher S02E04",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 129,
+    "title": "Reacher S02E05",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 130,
+    "title": "Reacher S02E06",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 131,
+    "title": "Reacher S02E07",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 132,
+    "title": "Reacher S02E08",
+    "year": 2023,
+    "genre": "Crime Action",
+    "type": "Serie",
+    "actors": ["Alan Ritchson", "Maria Sten", "Serinda Swan"]
+  },
+  {
+    "id": 133,
+    "title": "Rio",
+    "year": 2011,
+    "genre": "Animation Adventure",
+    "type": "Film",
+    "actors": ["Jesse Eisenberg", "Anne Hathaway", "George Lopez"]
+  },
+  {
+    "id": 134,
+    "title": "Rio 2",
+    "year": 2014,
+    "genre": "Animation Adventure",
+    "type": "Film",
+    "actors": ["Jesse Eisenberg", "Anne Hathaway", "Andy García"]
+  },
+  {
+    "id": 135,
+    "title": "Rippy",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Michael Biehn", "Alexandra Nelsson", "Tess Haubrich"]
+  },
+  {
+    "id": 136,
+    "title": "The Call of the Wild",
+    "year": 2020,
+    "genre": "Adventure Drama",
+    "type": "Film",
+    "actors": ["Harrison Ford", "Dan Stevens", "Omar Sy"]
+  },
+  {
+    "id": 137,
+    "title": "Shazam! Fury of the Gods",
+    "year": 2023,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Zachary Levi", "Asher Angel", "Jack Dylan Grazer"]
+  },
+  {
+    "id": 138,
+    "title": "Shazam!",
+    "year": 2019,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Zachary Levi", "Asher Angel", "Jack Dylan Grazer"]
+  },
+  {
+    "id": 139,
+    "title": "Shooter",
+    "year": 2007,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Mark Wahlberg", "Michael Peña", "Danny Glover"]
+  },
+  {
+    "id": 140,
+    "title": "Sinister",
+    "year": 2012,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Ethan Hawke", "Juliet Rylance", "James Ransone"]
+  },
+  {
+    "id": 141,
+    "title": "Sinister 2",
+    "year": 2015,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["James Ransone", "Shannyn Sossamon", "Robert Daniel Sloan"]
+  },
+  {
+    "id": 142,
+    "title": "Sisu",
+    "year": 2022,
+    "genre": "Action War",
+    "type": "Film",
+    "actors": ["Jorma Tommila", "Aksel Hennie", "Jack Doolan"]
+  },
+  {
+    "id": 143,
+    "title": "Small Soldiers",
+    "year": 1998,
+    "genre": "Action Comedy",
+    "type": "Film",
+    "actors": ["Kirsten Dunst", "Gregory Smith", "Jay Mohr"]
+  },
+  {
+    "id": 144,
+    "title": "Smile 2",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Naomi Scott", "Rosemarie DeWitt", "Lukas Gage"]
+  },
+  {
+    "id": 145,
+    "title": "Sting",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Ryan Corr", "Alyla Browne", "Penelope Mitchell"]
+  },
+  {
+    "id": 146,
+    "title": "Superman",
+    "year": 2025,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["David Corenswet", "Rachel Brosnahan", "Nicholas Hoult"]
+  },
+  {
+    "id": 147,
+    "title": "Superman Returns",
+    "year": 2006,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Brandon Routh", "Kate Bosworth", "Kevin Spacey"]
+  },
+  {
+    "id": 148,
+    "title": "Tarot",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Harriet Slater", "Adain Bradley", "Avantika"]
+  },
+  {
+    "id": 149,
+    "title": "Terrifier 2",
+    "year": 2022,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Lauren LaVera", "David Howard Thornton", "Elliott Fullam"]
+  },
+  {
+    "id": 150,
+    "title": "Terrifier",
+    "year": 2016,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Jenna Kanell", "Samantha Scaffidi", "David Howard Thornton"]
+  },
+  {
+    "id": 151,
+    "title": "The Art of the Steal",
+    "year": 2013,
+    "genre": "Comedy Crime",
+    "type": "Film",
+    "actors": ["Kurt Russell", "Matt Dillon", "Jay Baruchel"]
+  },
+  {
+    "id": 152,
+    "title": "The Beekeeper",
+    "year": 2024,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Jason Statham", "Emmy Raver-Lampman", "Josh Hutcherson"]
+  },
+  {
+    "id": 153,
+    "title": "The Crow",
+    "year": 2024,
+    "genre": "Action Horror",
+    "type": "Film",
+    "actors": ["Bill Skarsgård", "FKA twigs", "Danny Huston"]
+  },
+  {
+    "id": 154,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genre": "Action Crime",
+    "type": "Film",
+    "actors": ["Christian Bale", "Tom Hardy", "Anne Hathaway"]
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action Crime",
+    "type": "Film",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "id": 156,
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "genre": "Action Sci-Fi",
+    "type": "Film",
+    "actors": ["Pedro Pascal", "Vanessa Kirby", "Joseph Quinn"]
+  },
+  {
+    "id": 157,
+    "title": "The Flash",
+    "year": 2023,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Ezra Miller", "Michael Keaton", "Sasha Calle"]
+  },
+  {
+    "id": 158,
+    "title": "The Nun",
+    "year": 2018,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Taissa Farmiga", "Demián Bichir", "Jonas Bloquet"]
+  },
+  {
+    "id": 159,
+    "title": "The Nun II",
+    "year": 2023,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Taissa Farmiga", "Jonas Bloquet", "Storm Reid"]
+  },
+  {
+    "id": 160,
+    "title": "The Revenant",
+    "year": 2015,
+    "genre": "Drama Adventure",
+    "type": "Film",
+    "actors": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"]
+  },
+  {
+    "id": 161,
+    "title": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "genre": "Animation Adventure",
+    "type": "Film",
+    "actors": ["Chris Pratt", "Anya Taylor-Joy", "Charlie Day"]
+  },
+  {
+    "id": 162,
+    "title": "The Ugly Stepsister",
+    "year": 2024,
+    "genre": "Comedy Horror",
+    "type": "Film",
+    "actors": ["Lea Thompson", "Jodelle Ferland", "William B. Davis"]
+  },
+  {
+    "id": 163,
+    "title": "The Last of Us S02E01",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 164,
+    "title": "The Last of Us S02E02",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 165,
+    "title": "The Last of Us S02E03",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 166,
+    "title": "The Last of Us S02E06",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 167,
+    "title": "The Last of Us S02E07",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 168,
+    "title": "Trap",
+    "year": 2024,
+    "genre": "Thriller",
+    "type": "Film",
+    "actors": ["Josh Hartnett", "Ariel Donoghue", "Saleka Shyamalan"]
+  },
+  {
+    "id": 169,
+    "title": "Twisters",
+    "year": 2024,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["Daisy Edgar-Jones", "Glen Powell", "Anthony Ramos"]
+  },
+  {
+    "id": 170,
+    "title": "Venom: The Last Dance",
+    "year": 2024,
+    "genre": "Action Sci-Fi",
+    "type": "Film",
+    "actors": ["Tom Hardy", "Chiwetel Ejiofor", "Juno Temple"]
+  },
+  {
+    "id": 171,
+    "title": "Wall Street: Money Never Sleeps",
+    "year": 2010,
+    "genre": "Drama",
+    "type": "Film",
+    "actors": ["Michael Douglas", "Shia LaBeouf", "Carey Mulligan"]
+  },
+  {
+    "id": 172,
+    "title": "Wall Street",
+    "year": 1987,
+    "genre": "Drama",
+    "type": "Film",
+    "actors": ["Michael Douglas", "Charlie Sheen", "Daryl Hannah"]
+  },
+  {
+    "id": 173,
+    "title": "Wanted",
+    "year": 2008,
+    "genre": "Action Thriller",
+    "type": "Film",
+    "actors": ["James McAvoy", "Angelina Jolie", "Morgan Freeman"]
+  },
+  {
+    "id": 174,
+    "title": "Winnie the Pooh: Blood and Honey 2",
+    "year": 2024,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Scott Chambers", "Ryan Oliva", "Marcus Massey"]
+  },
+  {
+    "id": 175,
+    "title": "Winnie the Pooh: Blood and Honey",
+    "year": 2023,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Craig David Dowsett", "Chris Cordell", "Amber Doig-Thorne"]
+  },
+  {
+    "id": 176,
+    "title": "The Wolfman",
+    "year": 2010,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": ["Benicio del Toro", "Anthony Hopkins", "Emily Blunt"]
+  },
+  {
+    "id": 177,
+    "title": "Wonder Woman 1984",
+    "year": 2020,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Gal Gadot", "Chris Pine", "Kristen Wiig"]
+  },
+  {
+    "id": 178,
+    "title": "Wonder Woman",
+    "year": 2017,
+    "genre": "Action",
+    "type": "Film",
+    "actors": ["Gal Gadot", "Chris Pine", "Robin Wright"]
+  },
+  {
+    "id": 179,
+    "title": "Yogi Bear",
+    "year": 2010,
+    "genre": "Family Comedy",
+    "type": "Film",
+    "actors": ["Dan Aykroyd", "Justin Timberlake", "Anna Faris"]
+  },
+  {
+    "id": 180,
+    "title": "Zoom",
+    "year": 2006,
+    "genre": "Family Comedy",
+    "type": "Film",
+    "actors": ["Tim Allen", "Courteney Cox", "Chevy Chase"]
+  }
+]
