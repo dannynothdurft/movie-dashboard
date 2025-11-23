@@ -1319,17 +1319,17 @@
     "type": "Serie",
     "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
   },
-  {
+    {
     "id": 166,
-    "title": "The Last of Us S02E06",
+    "title": "The Last of Us S02E04",
     "year": 2025,
     "genre": "Drama Horror",
     "type": "Serie",
     "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
   },
-  {
+    {
     "id": 167,
-    "title": "The Last of Us S02E07",
+    "title": "The Last of Us S02E05",
     "year": 2025,
     "genre": "Drama Horror",
     "type": "Serie",
@@ -1337,6 +1337,22 @@
   },
   {
     "id": 168,
+    "title": "The Last of Us S02E06",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 169,
+    "title": "The Last of Us S02E07",
+    "year": 2025,
+    "genre": "Drama Horror",
+    "type": "Serie",
+    "actors": ["Pedro Pascal", "Bella Ramsey", "Anna Torv"]
+  },
+  {
+    "id": 170,
     "title": "Trap",
     "year": 2024,
     "genre": "Thriller",
@@ -1344,7 +1360,7 @@
     "actors": ["Josh Hartnett", "Ariel Donoghue", "Saleka Shyamalan"]
   },
   {
-    "id": 169,
+    "id": 171,
     "title": "Twisters",
     "year": 2024,
     "genre": "Action Thriller",
@@ -1352,7 +1368,7 @@
     "actors": ["Daisy Edgar-Jones", "Glen Powell", "Anthony Ramos"]
   },
   {
-    "id": 170,
+    "id": 172,
     "title": "Venom: The Last Dance",
     "year": 2024,
     "genre": "Action Sci-Fi",
@@ -1360,7 +1376,7 @@
     "actors": ["Tom Hardy", "Chiwetel Ejiofor", "Juno Temple"]
   },
   {
-    "id": 171,
+    "id": 173,
     "title": "Wall Street: Money Never Sleeps",
     "year": 2010,
     "genre": "Drama",
@@ -1368,7 +1384,7 @@
     "actors": ["Michael Douglas", "Shia LaBeouf", "Carey Mulligan"]
   },
   {
-    "id": 172,
+    "id": 174,
     "title": "Wall Street",
     "year": 1987,
     "genre": "Drama",
@@ -1376,7 +1392,7 @@
     "actors": ["Michael Douglas", "Charlie Sheen", "Daryl Hannah"]
   },
   {
-    "id": 173,
+    "id": 175,
     "title": "Wanted",
     "year": 2008,
     "genre": "Action Thriller",
@@ -1384,7 +1400,7 @@
     "actors": ["James McAvoy", "Angelina Jolie", "Morgan Freeman"]
   },
   {
-    "id": 174,
+    "id": 176,
     "title": "Winnie the Pooh: Blood and Honey 2",
     "year": 2024,
     "genre": "Horror",
@@ -1392,7 +1408,7 @@
     "actors": ["Scott Chambers", "Ryan Oliva", "Marcus Massey"]
   },
   {
-    "id": 175,
+    "id": 177,
     "title": "Winnie the Pooh: Blood and Honey",
     "year": 2023,
     "genre": "Horror",
@@ -1400,7 +1416,7 @@
     "actors": ["Craig David Dowsett", "Chris Cordell", "Amber Doig-Thorne"]
   },
   {
-    "id": 176,
+    "id": 178,
     "title": "The Wolfman",
     "year": 2010,
     "genre": "Horror",
@@ -1408,7 +1424,7 @@
     "actors": ["Benicio del Toro", "Anthony Hopkins", "Emily Blunt"]
   },
   {
-    "id": 177,
+    "id": 179,
     "title": "Wonder Woman 1984",
     "year": 2020,
     "genre": "Action",
@@ -1416,7 +1432,7 @@
     "actors": ["Gal Gadot", "Chris Pine", "Kristen Wiig"]
   },
   {
-    "id": 178,
+    "id": 180,
     "title": "Wonder Woman",
     "year": 2017,
     "genre": "Action",
@@ -1424,7 +1440,7 @@
     "actors": ["Gal Gadot", "Chris Pine", "Robin Wright"]
   },
   {
-    "id": 179,
+    "id": 181,
     "title": "Yogi Bear",
     "year": 2010,
     "genre": "Family Comedy",
@@ -1432,7 +1448,7 @@
     "actors": ["Dan Aykroyd", "Justin Timberlake", "Anna Faris"]
   },
   {
-    "id": 180,
+    "id": 182,
     "title": "Zoom",
     "year": 2006,
     "genre": "Family Comedy",
