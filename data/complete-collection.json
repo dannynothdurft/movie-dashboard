@@ -1497,5 +1497,45 @@
     "genre": "Horror",
     "type": "Film",
     "actors": ["Rahman Ali", "Michael Sheffield", "Jessica Ambuehl"]
+  },
+  {
+    "id": 186,
+    "title": "Conjuring 4",
+    "year": null,
+    "genre": "Horror",
+    "type": "Film",
+    "actors": []
+  },
+  {
+    "id": 187,
+    "title": "Die unendliche Geschichte 2",
+    "year": null,
+    "genre": "Fantasy",
+    "type": "Film",
+    "actors": []
+  },
+  {
+    "id": 188,
+    "title": "Die unendliche Geschichte 3",
+    "year": null,
+    "genre": "Fantasy",
+    "type": "Film",
+    "actors": []
+  },
+  {
+    "id": 189,
+    "title": "Freibeuter des Todes",
+    "year": null,
+    "genre": "Adventure",
+    "type": "Film",
+    "actors": []
+  },
+  {
+    "id": 190,
+    "title": "Königreich der Himmel",
+    "year": null,
+    "genre": "Historical Drama",
+    "type": "Film",
+    "actors": []
   }
 ]
